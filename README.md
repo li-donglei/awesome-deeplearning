@@ -10,3 +10,11 @@
  * 1、[从各种博客、论坛抓取数据集](https://github.com/awesomedata/awesome-public-datasets)
  * 2、[辅助数据科学家养成项目](https://github.com/bulutyazilim/awesome-datascience)
  * 3、[大数据集](https://github.com/onurakpolat/awesome-bigdata)
+## 五、语言篇
+ * 1、[awesome-python项目](https://github.com/vinta/awesome-python)
+ * 2、[爬虫项目](https://github.com/facert/awesome-spider)
+ * 3、[awesome-java项目](https://github.com/akullpp/awesome-java)
+ * 4、[aweosme-php项目](https://github.com/ziadoz/awesome-php)
+## 六、工具篇
+ * 1、[notebook](https://github.com/jupyter/notebook)
+ 
