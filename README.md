@@ -8,7 +8,7 @@
  * 1、[深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
  * 2、[100天机器学习](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
  * 3、[100天机器学习-中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
- * 4、[人脸识别登陆项目](https://github.com/chenlinzhong/face-login)
+ * 4、[基于mtcnn/facenet/tensorflow 实现人脸识别登录系统 ](https://github.com/chenlinzhong/face-login)
 ## 三、deeplearning文献
  * 1、[awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 ## 四、数据集
